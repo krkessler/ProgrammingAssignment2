@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming Assignment 2 - written by Kurt Kessler
 
 ## The makeCacheMatrix() will create a matrix from a parameter
 ## and store that matrix in a global variable
